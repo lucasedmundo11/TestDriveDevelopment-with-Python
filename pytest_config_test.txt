@@ -1,0 +1,8 @@
+[pytest]
+
+python_functions=*_test
+python_classes=tests_*
+python_files=Tests_*
+
+markers =
+    calculate_bonus: Test for the salary bonus calculation function
